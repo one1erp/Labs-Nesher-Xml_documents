@@ -1,0 +1,1 @@
+<lims-request><login-request><SAMPLE><find-by-name>2312-2513/001</find-by-name><ALIQUOT><create-by-workflow><workflow-name>MOULDS </workflow-name></create-by-workflow><U_TEST_TEMPLATE_EXTENDED>Mould</U_TEST_TEMPLATE_EXTENDED><GROUP_ID>Food</GROUP_ID><U_RETEST>F</U_RETEST></ALIQUOT></SAMPLE></login-request></lims-request>
